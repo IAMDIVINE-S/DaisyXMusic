@@ -70,7 +70,7 @@ f"""
 
 ⚪️ For linked group admins only:
 
-- /cplay [song name] - play song you requested
+- /cplay [song name] - play song you requesteds
 - /cdplay [song name] - play song you requested via deezer
 - /csplay [song name] - play song you requested via jio saavn
 - /cplaylist - Show now playing list
